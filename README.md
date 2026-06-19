@@ -41,7 +41,7 @@ pip install notebook
 
 ## Outputs
 
-The notebook writes generated data locally under:
+The notebook writes generated data locally under the repository root:
 
 - `data/kaggle/` — downloaded datasets
 - `artifacts_portable/processed/` — processed manifests, features, time-series arrays, and proxy fusion table

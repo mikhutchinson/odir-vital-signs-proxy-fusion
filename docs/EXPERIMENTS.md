@@ -2,7 +2,7 @@
 
 ## Experiment 001 — Portable proxy fusion notebook
 
-**Status:** ready to run locally  
+**Status:** validated with nbconvert from a fresh throwaway clone  
 **Notebook:** `notebooks/odir5k_vital_signs_proxy_fusion_reproducible.ipynb`
 
 ### Purpose
