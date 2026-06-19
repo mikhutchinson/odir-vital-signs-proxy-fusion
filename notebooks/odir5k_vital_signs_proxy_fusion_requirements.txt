@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+openpyxl
+tqdm
+kagglehub
+# Optional for ResNet50 image embeddings:
+# torch
+# torchvision
